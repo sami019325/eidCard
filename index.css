@@ -54,11 +54,11 @@
     padding-left: 5px;
     padding-right: 20px;
     padding-top: 2px;
-    width: 80%;
-    height: 500px;
+    width: 90%;
+    height: 80vh;
     top: 50px;
-    margin-left: 7%;
-    margin-right: 10%;
+    margin-left: 1.5%;
+    margin-right: 5%;
     position: absolute;
     cursor: hand;
   }
@@ -81,7 +81,7 @@
   .avatar {
     background: #222;
     width: 99%;
-    height: 350px;
+    height: 60vh;
     display: block;
     margin-top: 10px;
     margin-left: 10px;
